@@ -7,13 +7,17 @@
 - crusher run approximately 3.5 ton approximately 6” thick
 - perforated pipe along base of wall for drainage.  Exits in 3 locations above base block. 
 
+## Documents
+
+[Material Specs](Documents/BEL22-258_Walls_Base-Course_EstimatingMaterial_Technical-Data.pdf)
+[Material Cut](Documents/BEL22-412_Residential-Cutsheet_GMS_AB-Collection_WEB.pdf)
+
 ## Overview
 
 [Stitched Wall](WallStitched.jpg)
 ![Stitched Wall](WallStitched.jpg)
 [Designed Wall](wall.png)
 ![Designed Wall](wall.png)
-
 
 ## Construction Images
 
@@ -50,10 +54,3 @@
 ![WalkThrough Images](walkthrough/middle.jpg)
 ![WalkThrough Images](walkthrough/right-1.jpg)
 ![WalkThrough Images](walkthrough/right.jpg)
-
-
-## Documents
-
-![Material Specs](Documents/BEL22-258_Walls_Base-Course_EstimatingMaterial_Technical-Data.pdf)
-![Material Cut](Documents/BEL22-412_Residential-Cutsheet_GMS_AB-Collection_WEB.pdf)
-
