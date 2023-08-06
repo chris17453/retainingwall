@@ -43,5 +43,5 @@
 ![WalkThrough Images](walkthrough/right-1.jpg)
 ![WalkThrough Images](walkthrough/right.jpg)
 
-![Stitched Wall](WallStitched.png)
+![Stitched Wall](WallStitched.jpg)
 ![Designed Wall](wall.png)
