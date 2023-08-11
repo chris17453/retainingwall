@@ -4,8 +4,7 @@
 - Wall is 5 to 3 feet in height
 - Allan Block / AB collection 8”x18”x12”
 - #57 stone approximately 14 ton. Filled from top of first course to approximately 8” to 16” below top of wall.
-- crusher run approximately 3.5 ton approximately 6” thick
-- perforated pipe along base of wall for drainage.  Exits in 3 locations above base block. 
+- perforated pipe along base of wall for drainage.  Exits in 3 locations above base block
 
 ## Documents
 
@@ -58,7 +57,6 @@
 ## Pilot hole to view base/crush run
 
 ![Pilot Hole](./construction/pilot-hole.jpg)
-
 
 ## Allan Block Video for installation
 
