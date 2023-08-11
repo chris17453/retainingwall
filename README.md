@@ -54,3 +54,14 @@
 ![WalkThrough Images](walkthrough/middle.jpg)
 ![WalkThrough Images](walkthrough/right-1.jpg)
 ![WalkThrough Images](walkthrough/right.jpg)
+
+## Pilot hole to view base/crush run
+
+![Pilot Hole](./construction/pilot-hole.jpg)
+
+
+## Allan Block Video for installation
+
+- [You Tube Video](https://www.youtube.com/watch?v=8n_ZAAt1YYo)
+![Instructions](./Documents/Screenshot%20from%202023-08-11%2014-26-31.png)
+![Instructions](./Documents/Screenshot%20from%202023-08-11%2014-26-40.png)
